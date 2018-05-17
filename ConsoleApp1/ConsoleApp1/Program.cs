@@ -4,11 +4,10 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-         Console.WriteLi("Hello World!");
+         while (true)
+            {
+                Console.WriteLie("Hello World!"); //ckjjjj
+            }
 
-
-        }
     }
 }
